@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Mentor</string>
+    <string name="app_desp">Mend your ways of using a phone</string>
+    <string name="app_label">Mentor</string>
+
+    <string name="title_activity_fooling">FoolingActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_test">TestActivity</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+
+</resources>
